@@ -9,9 +9,9 @@ Built using Open CV
 1. First install dependancies, this includes Numpy and OpenCV, to do this run 
 > **pip install numpy** 
 > **pip install opencv-python**  
-3. Put the video you want to use inside a new directory called **"video"** (make sure to name correctly) 
-4. Run **main.py** in the **"pyScripts directory**" 
-5. Wait for the program to render, when completed a new video in the root directory called **"finalVideo.avi** should appear 
+2. Put the video you want to use inside a new directory called **"video"** (make sure to name correctly) 
+3. Run **main.py** in the **"pyScripts directory**" 
+4. Wait for the program to render, when completed a new video in the root directory called **"finalVideo.avi** should appear 
 
 ## 📝Notes 
 * This program runs best with videos that are under 2 minutes at 1080p  
