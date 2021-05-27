@@ -17,6 +17,6 @@ Built using Open CV
 * This program runs best with videos that are under 2 minutes at 1080p  
 * Videos that are high quality and longer in length will take significantly longer to render
 
-## 📝Examples
+## ✨Examples
 ![alt text](samples/filter.png) 
 ![alt text](samples/frame.png)
