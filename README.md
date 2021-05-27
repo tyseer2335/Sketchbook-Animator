@@ -16,3 +16,7 @@ Built using Open CV
 ## 📝Notes 
 * This program runs best with videos that are under 2 minutes at 1080p  
 * Videos that are high quality and longer in length will take significantly longer to render
+
+## 📝Examples
+![alt text](https://ibb.co/qr7xM7H "Logo Title Text 1") 
+![alt text](https://ibb.co/ZH0XFrb "Logo Title Text 1")
