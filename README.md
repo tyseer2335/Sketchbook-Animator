@@ -1,11 +1,11 @@
-# Sketchbook-Animator
+# ✏️Sketchbook-Animator
 
 
-## Description
+## 📖Description
 This program takes in a video then re-renders the video in with a Sketch Animation effect, 
 Built using Open CV 
 
-## Try it out
+## 🧪Try it out
 1. First install dependancies, this includes Numpy and OpenCV, to do this run 
 > **pip install numpy** 
 > **pip install opencv-python**  
@@ -13,6 +13,6 @@ Built using Open CV
 4. Run **main.py** in the **"pyScripts directory**" 
 5. Wait for the program to render, when completed a new video in the root directory called **"finalVideo.avi** should appear 
 
-## Notes 
+## 📝Notes 
 * This program runs best with videos that are under 2 minutes at 1080p  
 * Videos that are high quality and longer in length will take significantly longer to render
