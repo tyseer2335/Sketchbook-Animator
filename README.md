@@ -18,5 +18,5 @@ Built using Open CV
 * Videos that are high quality and longer in length will take significantly longer to render
 
 ## 📝Examples
-![alt text](filter.png) 
-![alt text](frame.png)
+![alt text](samples/filter.png) 
+![alt text](samples/frame.png)
